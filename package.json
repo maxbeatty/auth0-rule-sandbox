@@ -1,6 +1,6 @@
 {
   "name": "auth0-rule-sandbox",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Provides a test environment for Auth0 Rules similar to their sandbox",
   "main": "index.js",
   "scripts": {
