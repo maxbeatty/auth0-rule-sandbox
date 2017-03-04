@@ -1,0 +1,23 @@
+{
+  "name": "auth0-rule-sandbox",
+  "version": "1.0.0",
+  "description": "Provides a test environment for Auth0 Rules similar to their sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxbeatty/auth0-rule-sandbox.git"
+  },
+  "keywords": [
+    "auth0",
+    "sandbox"
+  ],
+  "author": "Max Beatty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxbeatty/auth0-rule-sandbox/issues"
+  },
+  "homepage": "https://github.com/maxbeatty/auth0-rule-sandbox#readme"
+}
